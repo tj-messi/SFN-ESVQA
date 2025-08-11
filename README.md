@@ -5,7 +5,7 @@
               Spatio-temporal Frame-aware Network for Endoscopic Surgery Visual Question Answering</h1>  
 
 <p align='center' style="text-align:center;font-size:1.25em;">
-   <a href="https://github.com/tj-messi" target="_blank" style="text-decoration: none;">Junze Zhu</a>, <sup>a,1</sup>, 
+   <a href="https://github.com/tj-messi" target="_blank" style="text-decoration: none;">Junze Zhu</a> <sup>a,1</sup>, 
     Dasen Gu<sup>a,1</sup>, 
     Haotian Yang<sup>a,2</sup>, 
     Bin Li<sup>b,2</sup>,&nbsp;<br/>
