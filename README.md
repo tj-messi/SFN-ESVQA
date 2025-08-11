@@ -6,9 +6,9 @@
 
 <p align='center' style="text-align:center;font-size:1.25em;">
    <a href="https://github.com/tj-messi" target="_blank" style="text-decoration: none;">Junze Zhu</a>, <sup>a,1</sup>, 
-    Dasen Gu<sup>a</sup>, 
-    Haotian Yang<sup>a</sup>, 
-    Bin Li<sup>b</sup>,
+    Dasen Gu<sup>a,1</sup>, 
+    Haotian Yang<sup>a,2</sup>, 
+    Bin Li<sup>b,2</sup>,&nbsp;<br/>
     <sup>a</sup> <strong>Tongji University, China</strong><br/>
     <sup>b</sup> <strong>Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences,  China</strong><br/>
 </p>
